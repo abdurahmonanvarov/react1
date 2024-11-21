@@ -1,0 +1,48 @@
+.complited{
+    opacity: 0.5;
+    text-decoration: line-through;
+}
+body{
+    text-align: center;
+    background-color: blue;
+}
+ul{
+    padding: 20px;
+   
+}
+span{
+    margin-left: 10px;
+    font-size: 20px;
+}
+input{
+    margin-left: 10px;
+    padding: 5px;
+    border-radius: 15px;
+}
+h1{
+    padding-right: 50px;
+}
+li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    margin-left: 10px;
+    padding: 5px;
+    color: #fff;
+    border-radius: 10px;
+    background-color: blue;
+    border-style: none;
+    cursor: pointer;
+}
+.cower{
+    margin-top: 50px;
+    margin-left: 700px;
+    margin-right: 700px;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: aqua;
+}
